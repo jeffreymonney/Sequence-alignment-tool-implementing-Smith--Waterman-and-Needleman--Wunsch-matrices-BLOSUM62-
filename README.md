@@ -1,5 +1,5 @@
 # Sequence-alignment-tool-implementing-Smith--Waterman-and-Needleman--Wunsch-matrices-BLOSUM62-
-# Sequence Alignment Tool
+
 
 This project implements a custom protein sequence-alignment tool in Python using dynamic programming. It supports both the **Needleman–Wunsch algorithm** for global alignment and the **Smith–Waterman algorithm** for local alignment. The implementation is written from scratch rather than relying on BioPython for the main alignment calculations.
 
